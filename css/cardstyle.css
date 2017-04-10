@@ -1,0 +1,19 @@
+h2 {
+	text-align: center;
+}
+
+.Card {
+	border: 1.5px solid black;
+}
+
+.spec{
+	font-weight: bold;
+}
+.available{
+	background-color: darkgrey;
+	color: yellow;
+}
+
+.pricing{
+	font-weight: bold;
+}
